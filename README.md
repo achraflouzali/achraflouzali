@@ -10,5 +10,3 @@ Connect and collaborate with me:
 
 - LinkedIn: [Achraf Louzali](https://www.linkedin.com/in/achraflouzali) 💼
 - Email: achraf.louzali@gmail.com 📧
-
-I'm excited to connect with you! Let's chat! 😄
