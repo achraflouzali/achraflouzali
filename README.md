@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hi there, I'm Achraf Louzali, a data science enthusiast with a particular passion for the world of data analysis and artificial intelligence and who enjoys uncovering insights from data. I specialize in predictive modeling, data analysis, visualization, computer vision and natural language processing. My aim is to turn raw data into actionable decisions.
 
-<!--
-**achraflouzali/achraflouzali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects 🚀
 
-Here are some ideas to get you started:
+Explore my projects [here](https://github.com/achraflouzali?tab=repositories) to see how I apply data science techniques to real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 
+
+Connect and collaborate with me:
+
+- LinkedIn: [Achraf Louzali](https://www.linkedin.com/in/achraflouzali) 💼
+- Email: achraf.louzali@gmail.com 📧
+
+I'm excited to connect with you! Let's chat! 😄
