@@ -1,3 +1,4 @@
+# About me
 👋 Hi there, I'm Achraf Louzali, a data science enthusiast with a particular passion for the world of data analysis and artificial intelligence and who enjoys uncovering insights from data. I specialize in predictive modeling, data analysis, visualization, computer vision and natural language processing. My aim is to turn raw data into actionable decisions.
 
 ## Projects 🚀
