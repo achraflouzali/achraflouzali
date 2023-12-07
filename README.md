@@ -3,7 +3,7 @@
 
 ## Projects 🚀
 
-Explore my projects [here](https://github.com/achraflouzali?tab=repositories) to see to real-world challenges.
+Explore my projects [here](https://github.com/achraflouzali?tab=repositories) to see solutions to real-world challenges.
 
 ## Contact 
 
