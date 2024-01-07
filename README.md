@@ -1,5 +1,5 @@
 # About me
-👋 Hey, I'm Achraf Louzali — a coder passionate about unraveling insights through algorithms. With a focus on artificial intelligence, I thrive in crafting predictive models, conducting data analysis, and exploring the realms of computer vision and natural language processing. Coding isn't just a skill; it's my creative essence. Join me at the intersection of coding and AI, where possibilities are endless!
+👋 Hi, I'm Achraf Louzali — a developer and data enthusiast. I love crafting efficient data solutions and exploring the endless possibilities of coding. Join me at the intersection of development and data, where creativity knows no bounds!
 
 ## Projects 🚀
 
